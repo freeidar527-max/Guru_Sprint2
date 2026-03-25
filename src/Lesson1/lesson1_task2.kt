@@ -1,4 +1,4 @@
-package lesson1
+package Lesson1
 
 fun main(){
     val applePrice: Double = 40.2
