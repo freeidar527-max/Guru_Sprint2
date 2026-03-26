@@ -4,5 +4,5 @@ fun main() {
         println(counter)
         counter--
     }
-    println("Конец!")
+    println("Конец отсчета!")
 }
